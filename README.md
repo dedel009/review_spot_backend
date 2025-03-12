@@ -23,9 +23,9 @@
 
 <div align="center">
 
-|                                                           **김도윤(INFP)**                                                            |                                                           **김호현(ESFP)**                                                            |                                                       **김창권(ISFJ)**                                                        |                                                         **유종철(ISFJ)**                                                          |
-| :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars.githubusercontent.com/u/57212041?v=4" height=150 width=150> <br/> @dedel009](https://github.com/dedel009/) | [<img src="https://avatars.githubusercontent.com/u/122351733?v=4" height=150 width=150> <br/> @Khohyeon](https://github.com/Khohyeon) | [<img src="https://avatars.githubusercontent.com/u/99378862?v=4" height=150 width=150> <br/> @Kevin](https://github.com/oggn) | [<img src="https://avatars.githubusercontent.com/u/51194504?v=4" height=150 width=150> <br/> @Logan](https://github.com/whdcjf96) |
+|                                                           **김도윤(INFP)**                                                            |                                           **유종철(ISFJ)**                                                                        |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars.githubusercontent.com/u/57212041?v=4" height=150 width=150> <br/> @dedel009](https://github.com/dedel009/) | [<img src="https://avatars.githubusercontent.com/u/51194504?v=4" height=150 width=150> <br/> @Logan](https://github.com/whdcjf96) |
 
 </div>
 
