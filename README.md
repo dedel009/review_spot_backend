@@ -3,7 +3,7 @@
 ![readme_mockup2](https://github.com/dedel009/review-spot/blob/master/title_image.jpg?raw=true)
 
 - 배포
-  - 프론트 URL : https://review-spot.vercel.app/reviews
+  - 프론트 URL : https://review-spot-front.vercel.app
   - 백엔드 swagger URL : http://3.39.234.40/swagger/
   - 백엔드 admin URL : https://3.39.234.40/admin/
 - 협업 툴
